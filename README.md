@@ -38,3 +38,8 @@ Then, start the bot with:
 ```js
 node index.js
 ```
+
+# Contact
+This Selfbot is Deisgned and Developed by **SHREYANSH** (Discord: shreyansh.org)
+- For any assistance regarding the code, feel free to DM me on Discord.
+### ⚠️ Please do not attempt to rebrand or sell this code. It is intended to remain freely accessible, and I trust that users will honor this commitment and refrain from commercializing it.
