@@ -32,7 +32,7 @@ If all steps are completed without errors, you can run `,help` to view available
 To install the necessary modules, run the following command in Terminal:
 
 ```sh
-npm install discord.js-selfbot-v13 fs js-yaml google-tts-api youtube-dl-exec lyrics-finder @discordjs/voice
+npm install discord.js-selfbot-v13 fs js-yaml google-tts-api lyrics-finder @discordjs/voice
 ```
 Then, start the bot with:
 ```js
