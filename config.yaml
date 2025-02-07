@@ -1,0 +1,29 @@
+# Music Selfbot Designed and Developed by SHREYANSH (Discord: shreyansh.org)
+# Feel Free to DM Me for any Kind of Help regarding the Code
+# Do not Attempt to Rebrand or Sell the Codes, This code is intended to be freely accessible and I expect users to honor this commitment and refrain from any attempts to commercialize it.
+
+
+
+# Your Discord bot token. Obtain it from the Discord Developer Portal.
+token: "token"
+
+# The command prefix used to trigger the bot.
+prefix: ","
+
+# List of user IDs that are allowed to use the bot.
+admin:
+  - "226789648150691840"
+  - "add more depending upon your need"
+
+# The default volume level for the bot (0.0 to 1.0).
+volume: 1.0 # DO NOT TOUCH
+
+# Available Languages:
+# Hindi (hi)
+# English (en)
+# French (fr)
+# Chinese (Mandarin) (zh)
+# Spanish (es)
+TTS:
+  lang: "en" 
+  slow: false
